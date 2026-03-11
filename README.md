@@ -2,7 +2,7 @@
 
 A machine learning library built from scratch in C++ with no external dependencies.
 
-Currently implements a two-layer perceptron that trains on MNIST, including matrix math, backpropagation, and SGD — all written from raw C++17.
+Currently implements a two-layer perceptron that trains on MNIST, including matrix math, backpropagation, and SGD - all written from raw C++17.
 
 ## Results
 
