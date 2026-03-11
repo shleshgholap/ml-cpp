@@ -26,7 +26,7 @@ Epoch 5 | Loss: 0.1010 | Acc: 96.75% | Time: 5.38s
 - MNIST IDX binary format parser
 - Batched training loop (batch size 64)
 
-Everything lives in a single `v0_mnist.cpp` — no frameworks, no BLAS, no dependencies beyond the standard library.
+Everything lives in a single `v0_mnist.cpp` - no frameworks, no BLAS, no dependencies beyond the standard library.
 
 ## Build
 
